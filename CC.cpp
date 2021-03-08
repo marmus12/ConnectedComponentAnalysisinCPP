@@ -1,5 +1,5 @@
 #include<numeric>
-#include "C:\Users\vhemka\source\repos\usefuls.cpp"
+#include "path\to\usefuls.cpp"
 
 
 class CCobj
